@@ -2,9 +2,9 @@
 
 ## User Story 
 
--AS AN bootcamp student looking for a position
--I WANT create a professional portfolio
--SO THAT I can showcase projects and give others the ability to contact me
+-AS A bootcamp student looking for a position  
+-I WANT create a professional portfolio  
+-SO THAT I can showcase projects and give others the ability to contact me  
 
 ## Built With 
 
