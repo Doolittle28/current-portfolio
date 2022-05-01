@@ -3,7 +3,7 @@
 ## User Story 
 
 -AS A bootcamp student looking for a position  
--I WANT create a professional portfolio  
+-I WANT to create a professional portfolio  
 -SO THAT I can showcase projects and give others the ability to contact me  
 
 ## Built With 
