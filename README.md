@@ -19,5 +19,5 @@
 ## Screenshot 
 
 ![Portfolio](assets/images/portfoliogif.gif)  
--Gif of deployed scheduler 
+-Gif of deployed portfolio
 
